@@ -1,8 +1,11 @@
-<div align="center">
+```md
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=1e3864&height=200&section=header&text=Shubhangi%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"
+  />
+</p>
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3864&height=200&section=header&text=Shubhangi%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" />
-
-</div>
 
 ---
 
