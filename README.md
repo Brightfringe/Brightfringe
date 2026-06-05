@@ -1,6 +1,6 @@
 # Hi there, I'm Shubhangi Sharma 👋
 
-**Backend Developer · AI & Data Science · Open Source Contributor**
+### Backend Developer · AI & Data Science · Open Source Contributor
 
 📍 Jaipur, India &nbsp;|&nbsp; 📧 shubhangi1222006@gmail.com &nbsp;|&nbsp; 🎓 B.Tech 2027 Batch
 
@@ -9,8 +9,6 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangi1222006@gmail.com)
 [![Location](https://img.shields.io/badge/Jaipur%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Available](https://img.shields.io/badge/Available-May%2FJune%202026-22c55e?style=for-the-badge)](#)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=false&width=750&lines=Java+%7C+Python+%7C+HTML5+%7C+CSS3;Spring+Boot+%7C+REST+APIs+%7C+WebSocket+%7C+JPA;Open+Source+Contributor+%40+GSSoC+2026+%F0%9F%9A%80;Building+clean+backends+%26+solving+real+problems;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 ---
 
@@ -92,8 +90,6 @@ public class Shubhangi extends Developer {
 
 > *Conversations, in sync.*
 
-Full-stack real-time chat — Google sign-in, instant messaging, live user list. No refresh, no delays.
-
 - 🏗️ Spring Boot + WebSocket + STOMP
 - 🔐 Google OAuth via Firebase
 - ⚡ React 19 + TypeScript frontend
@@ -112,8 +108,6 @@ Full-stack real-time chat — Google sign-in, instant messaging, live user list.
 **Offline-First Payment Simulation System**
 
 > *What if payments worked without the internet?*
-
-Spring Boot REST backend simulating UPI-style offline P2P payments using mesh propagation.
 
 - 🔐 Encrypted transaction packet creation
 - 📡 Mesh gossip propagation + bridge sync
