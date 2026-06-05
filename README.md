@@ -8,7 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brightfringe)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangi1222006@gmail.com)
 [![Location](https://img.shields.io/badge/Jaipur%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Available](https://img.shields.io/badge/Available-May%2FJune%202026-22c55e?style=for-the-badge)](#)
 
 ---
 
