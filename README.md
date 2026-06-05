@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubhangi%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16" width="100%"/>
+# Shubhangi Sharma
+
+### Backend Developer | AI & Data Science | Open Source Contributor
 
 <br/>
 
@@ -12,7 +14,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+clean+backends+%26+solving+real+problems;Spring+Boot+%7C+React+%7C+WebSockets+%7C+Firebase;Open+Source+Contributor+%40+GSSoC+2026;Always+learning%2C+always+shipping+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+clean+backends+and+solving+real+problems;Spring+Boot+%7C+React+%7C+WebSockets+%7C+Firebase;Open+Source+Contributor+at+GSSoC+2026;Always+learning%2C+always+shipping)
 
 </div>
 
@@ -96,7 +98,7 @@ A full-stack real-time chat app where users sign in with Google, pick a display 
 - ⚡ Instant messaging over WebSockets + STOMP protocol
 - 👥 Live online users list, updated in real time
 - 🏗️ Spring Boot backend + React 19 + TypeScript frontend
-- 🚀 Deployed on Vercel (frontend) with CI/CD via GitHub
+- 🚀 Deployed on Vercel with CI/CD via GitHub
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -150,17 +152,13 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Brightfringe&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Brightfringe&show_icons=true&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightfringe&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightfringe&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Brightfringe&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6B35&currStreakLabel=6C63FF&background=0d1117" />
-
-<br/><br/>
-
-![snake animation](https://github.com/Brightfringe/Brightfringe/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://streak-stats.demolab.com?user=Brightfringe&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -197,7 +195,5 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 <br/><br/>
 
 *Open to internship opportunities — May/June 2026 onwards*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
