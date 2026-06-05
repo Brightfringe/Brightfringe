@@ -1,10 +1,8 @@
-<div align="center">
+# Hi there, I'm Shubhangi Sharma 👋
 
-# 👩‍💻 Shubhangi Sharma
+**Backend Developer · AI & Data Science · Open Source Contributor**
 
-### Backend Developer · AI & Data Science · Open Source Contributor
-
-<br/>
+📍 Jaipur, India &nbsp;|&nbsp; 📧 shubhangi1222006@gmail.com &nbsp;|&nbsp; 🎓 B.Tech 2027 Batch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-sharma-a84121212)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brightfringe)
@@ -12,11 +10,7 @@
 [![Location](https://img.shields.io/badge/Jaipur%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Available](https://img.shields.io/badge/Available-May%2FJune%202026-22c55e?style=for-the-badge)](#)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+HTML5+%7C+CSS3;Spring+Boot+%7C+REST+APIs+%7C+WebSocket+%7C+JPA;Open+Source+Contributor+%40+GSSoC+2026+🚀;Building+clean+backends+%26+solving+real+problems+⚡;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=false&width=750&lines=Java+%7C+Python+%7C+HTML5+%7C+CSS3;Spring+Boot+%7C+REST+APIs+%7C+WebSocket+%7C+JPA;Open+Source+Contributor+%40+GSSoC+2026+%F0%9F%9A%80;Building+clean+backends+%26+solving+real+problems;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 ---
 
@@ -38,8 +32,8 @@ public class Shubhangi extends Developer {
 
     String[] funFacts = {
         "Captain of WICE (Women In Science & Engineering)",
-        "Gold Medalist in Kabaddi 🏅",
-        "Silver Medalist in Valorant 🎮"
+        "Gold Medalist in Kabaddi",
+        "Silver Medalist in Valorant"
     };
 }
 ```
@@ -47,8 +41,6 @@ public class Shubhangi extends Developer {
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages**
 
@@ -87,8 +79,6 @@ public class Shubhangi extends Developer {
 ![CRUD](https://img.shields.io/badge/CRUD%20Operations-FF6B35?style=for-the-badge)
 ![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-1e3864?style=for-the-badge)
 
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -104,7 +94,6 @@ public class Shubhangi extends Developer {
 
 Full-stack real-time chat — Google sign-in, instant messaging, live user list. No refresh, no delays.
 
-**Tech used:**
 - 🏗️ Spring Boot + WebSocket + STOMP
 - 🔐 Google OAuth via Firebase
 - ⚡ React 19 + TypeScript frontend
@@ -126,7 +115,6 @@ Full-stack real-time chat — Google sign-in, instant messaging, live user list.
 
 Spring Boot REST backend simulating UPI-style offline P2P payments using mesh propagation.
 
-**Tech used:**
 - 🔐 Encrypted transaction packet creation
 - 📡 Mesh gossip propagation + bridge sync
 - ⏱️ TTL-based forwarding, zero duplicates
@@ -148,9 +136,6 @@ Spring Boot REST backend simulating UPI-style offline P2P payments using mesh pr
 
 > *Clean CRUD, zero fuss.*
 
-Spring Boot REST API with full alarm lifecycle management, input validation, and structured JSON responses.
-
-**Tech used:**
 - 🔁 4 REST endpoints — full CRUD
 - ✅ Input validation + JSON responses
 - 🧪 Verified via Postman
@@ -166,9 +151,6 @@ Spring Boot REST API with full alarm lifecycle management, input validation, and
 
 > *Currently building in public.*
 
-Exploring AI integrations, distributed systems, and data pipelines.
-
-**Stay tuned for:**
 - 🤖 AI-powered backend services
 - 🌐 Distributed system experiments
 - 📊 Data pipeline projects
@@ -183,50 +165,34 @@ Exploring AI integrations, distributed systems, and data pipelines.
 
 ## 🌱 Open Source — GSSoC 2026
 
-<div align="center">
-
 [![GSSoC](https://img.shields.io/badge/GSSoC%202026-394%20Points-FF6B6B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/PankajSingh34/AlgoBuddy)
 [![Merged PRs](https://img.shields.io/badge/Merged%20PRs-4-6C63FF?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Duration](https://img.shields.io/badge/3%20Weeks-22c55e?style=for-the-badge)](#)
-
-</div>
 
 Selected as a contributor in **GSSoC 2026** — one of India's largest open source programs — earning **394 points** across **4 merged pull requests** in 3 weeks.
 
 | Project | Contribution |
 |---|---|
-| **AlgoBuddy** | Fixed dark mode glass-effect bug · Integrated Gemini API chatbot · Built reusable `AppleCodeBlock` component |
-| **CommitPulse** | Wrote tests for streak-calculation edge cases · Improved test coverage for empty contribution timelines |
+| **AlgoBuddy** | Fixed dark mode bug · Integrated Gemini API chatbot · Built reusable `AppleCodeBlock` component |
+| **CommitPulse** | Wrote tests for streak-calculation edge cases · Improved test coverage |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 [![Shubhangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brightfringe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Brightfringe)
 &nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brightfringe&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Brightfringe)
 
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Brightfringe&theme=tokyonight&hide_border=true)](https://github.com/Brightfringe)
 
-<br/>
-
-[![Shubhangi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightfringe&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true)](https://github.com/Brightfringe)
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightfringe&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true)](https://github.com/Brightfringe)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brightfringe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Brightfringe)
-
-</div>
 
 ---
 
@@ -255,12 +221,6 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 
 ---
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Open+to+internship+opportunities+—+May%2FJune+2026+onwards;Let's+build+something+amazing+together!+🚀;Reach+out+at+shubhangi1222006%40gmail.com)](https://git.io/typing-svg)
-
-<br/>
+*Open to internship opportunities*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brightfringe&label=Profile+Views&color=6C63FF&style=for-the-badge)
-
-</div>
