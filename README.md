@@ -21,7 +21,6 @@
 
 ## 👩‍💻 About Me
 
-```java
 public class Shubhangi extends Developer {
 
     String degree     = "B.Tech — Artificial Intelligence & Data Science";
@@ -41,7 +40,6 @@ public class Shubhangi extends Developer {
         "Silver Medalist in Valorant 🎮"
     };
 }
-```
 
 ---
 
@@ -257,13 +255,13 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 > To enable the snake animation, add the GitHub Action below to your repo.
 
 <!-- Once GitHub Action is set up, uncomment these lines: -->
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brightfringe/Brightfringe/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brightfringe/Brightfringe/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Brightfringe/Brightfringe/output/github-contribution-grid-snake-dark.svg" />
 </picture>
--->
+
 
 <details>
 <summary>📋 Click to see the GitHub Action to enable the Snake animation</summary>
@@ -296,7 +294,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then uncomment the snake `<picture>` block above.
+
 
 </details>
 
