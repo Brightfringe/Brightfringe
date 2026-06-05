@@ -1,11 +1,9 @@
 <div align="center">
 
-# Shubhangi Sharma
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shubhangi%20Sharma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=16&descColor=aaaaff"/>
 
-### Backend Developer | AI & Data Science | Open Source Contributor
-
-<br/>
-
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-sharma-a84121212)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brightfringe)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangi1222006@gmail.com)
@@ -14,7 +12,8 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+HTML5+%7C+CSS3;Spring+Boot+%7C+REST+APIs+%7C+WebSocket+%7C+JPA;Open+Source+Contributor+at+GSSoC+2026;Always+learning%2C+always+shipping)
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+HTML5+%7C+CSS3;Spring+Boot+%7C+REST+APIs+%7C+WebSocket+%7C+JPA;Open+Source+Contributor+%40+GSSoC+2026+🚀;Building+clean+backends+%26+solving+real+problems+⚡;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,24 +49,24 @@ public class Shubhangi extends Developer {
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2%20Database-1e3864?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Tools & DevOps
+### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +75,7 @@ public class Shubhangi extends Developer {
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Concepts
+### 🧠 Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge)
 ![CRUD](https://img.shields.io/badge/CRUD%20Operations-FF6B35?style=for-the-badge)
@@ -135,6 +134,38 @@ A Spring Boot REST backend simulating UPI-style offline peer-to-peer payments us
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏰ [Alarm Clock API](https://github.com/Brightfringe)
+**REST API for Alarm Management**
+
+> *Clean CRUD, zero fuss.*
+
+A Spring Boot REST API with full alarm lifecycle management, input validation, and structured JSON responses.
+
+**Highlights:**
+- 🔁 4 REST endpoints — complete CRUD coverage
+- ✅ Input validation + structured JSON responses
+- 🧪 All cases verified via Postman
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More Coming Soon...
+
+> *Currently building in public.*
+
+Exploring AI integrations, distributed systems, and data pipelines.
+
+[![Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Brightfringe)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -158,21 +189,45 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 
 ## 📊 GitHub Stats
 
+> **⚠️ Stats Fix Note:** The public `github-readme-stats.vercel.app` shared instance is heavily rate-limited and often returns broken images for free users. **Deploy your own instance** (free, 5 min) at [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) and replace `YOUR_STATS_INSTANCE` below with your own Vercel URL.
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Brightfringe&show_icons=true&theme=tokyonight&hide_border=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightfringe&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- ✅ OPTION 1: After deploying your own stats instance, replace YOUR_STATS_INSTANCE below -->
+<!-- <img height="180em" src="https://YOUR_STATS_INSTANCE.vercel.app/api?username=Brightfringe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
+<!-- <img height="180em" src="https://YOUR_STATS_INSTANCE.vercel.app/api/top-langs/?username=Brightfringe&layout=compact&theme=tokyonight&hide_border=true" /> -->
+
+<!-- ✅ OPTION 2: Using the public instance (may break when rate-limited) -->
+<a href="https://github.com/Brightfringe">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brightfringe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightfringe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Brightfringe&theme=tokyonight&hide_border=true" />
+<!-- ✅ Streak Stats — demolab is reliable -->
+<img src="https://streak-stats.demolab.com?user=Brightfringe&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+<!-- ✅ Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brightfringe&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Leadership & Achievements
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Brightfringe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+---
+
+## 🏅 Leadership & Achievements
 
 | 🏅 Achievement | Details |
 |---|---|
@@ -197,12 +252,65 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 
 ---
 
+## 🐍 Contribution Snake
+
+> To enable the snake animation, add the GitHub Action below to your repo.
+
+<!-- Once GitHub Action is set up, uncomment these lines: -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brightfringe/Brightfringe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brightfringe/Brightfringe/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Brightfringe/Brightfringe/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+-->
+
+<details>
+<summary>📋 Click to see the GitHub Action to enable the Snake animation</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then uncomment the snake `<picture>` block above.
+
+</details>
+
+---
+
 <div align="center">
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <img src="https://komarev.com/ghpvc/?username=Brightfringe&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
 <br/><br/>
 
-*Open to internship opportunities — May/June 2026 onwards*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Open+to+internship+opportunities+—+May%2FJune+2026+onwards;Let's+build+something+amazing+together!+🚀;Reach+out+at+shubhangi1222006%40gmail.com)](https://git.io/typing-svg)
 
 </div>
