@@ -14,27 +14,17 @@
 
 ## 👩‍💻 About Me
 
-```java
-public class Shubhangi extends Developer {
+I'm a **Backend Developer** and **AI & Data Science** student at Poornima College of Engineering, Jaipur (B.Tech 2027). I love building clean, efficient backends and solving real-world problems through code.
 
-    String degree     = "B.Tech — Artificial Intelligence & Data Science";
-    String college    = "Poornima College of Engineering, Jaipur";
-    String batch      = "2027";
-    String passion    = "Building clean backends & solving real problems";
+🔭 **Currently doing:**
+- Contributing to Open Source via GSSoC 2026
+- Building REST APIs with Spring Boot
+- Exploring distributed systems & mesh networking
 
-    String[] currentlyDoing = {
-        "Contributing to Open Source via GSSoC 2026",
-        "Building REST APIs with Spring Boot",
-        "Exploring distributed systems & mesh networking"
-    };
-
-    String[] funFacts = {
-        "Captain of WICE (Women In Science & Engineering)",
-        "Gold Medalist in Kabaddi",
-        "Silver Medalist in Valorant"
-    };
-}
-```
+⚡ **Fun facts:**
+- Captain of WICE (Women In Science & Engineering)
+- Gold Medalist in Kabaddi 🏅
+- Silver Medalist in Valorant 🎮
 
 ---
 
@@ -215,6 +205,6 @@ Selected as a contributor in **GSSoC 2026** — one of India's largest open sour
 
 ---
 
-*Open to internship opportunities*
+*Open to internship opportunities — May/June 2026 onwards*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brightfringe&label=Profile+Views&color=6C63FF&style=for-the-badge)
